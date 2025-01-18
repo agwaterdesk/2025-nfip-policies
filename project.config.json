@@ -1,0 +1,25 @@
+{
+  "project": {
+    "name": "2025-nfip-policies",
+    "slug": "2025-nfip-policies"
+  },
+  "s3": {
+    "bucket": "",
+    "folder": "2025-nfip-policies"
+  },
+  "google": {
+    "doc": [
+      {
+        "id": "",
+        "filepath": "src/data/copy.json"
+      }
+    ],
+    "sheet": [
+      {
+        "id": "",
+        "gid": "",
+        "filepath": ""
+      }
+    ]
+  }
+}
