@@ -38,7 +38,7 @@
   </div>
 
   <div class="credit">
-    Data: <a
+    Note: Data is as of December each year; Data: <a
       target="_blank"
       href="https://www.fema.gov/openfema-data-page/nfip-multiple-loss-properties-v1"
       >FEMA</a
