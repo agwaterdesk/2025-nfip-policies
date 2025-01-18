@@ -107,6 +107,8 @@ const takeScreenshot = async (config, url) => {
     height: chartContainerSize.height,
   };
 
+  await sleep(2000)
+
   // Take the shot
   let screenshot = await page.screenshot({
     type: "jpeg",
